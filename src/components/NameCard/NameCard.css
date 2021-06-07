@@ -1,0 +1,24 @@
+.name-card-container{
+    color: white;
+    background: #282d4f;
+    margin: 10px 15px;
+    min-width: 75px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 5 rgba(255, 255, 255, 0.1);
+    transform: background 0.35s;
+}
+
+.card-link{
+    text-decoration: none;
+}
+
+.name-card-.name-card-container{
+    background: #4a5079;
+    box-shadow: 0 0 5 rgba(114, 69, 69, 0.2);
+}
+
+.name-card{
+    margin: 0;
+    font-weight: 100;
+}
